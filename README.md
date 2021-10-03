@@ -1,7 +1,7 @@
 # Welcome
 - Hi, I’m **Naman Barkiya**
 - Love opportunities  
-- Currently learning **React** and **React Native**
+- Currently working on **React** **Next** and **React Native**
 - Love to work as a **freelancer** or a **partner** in your next project!
 - Contact me via:
   1. ***email***: naman.barkiya02@gmail.com
