@@ -2,7 +2,7 @@
 - Hi, I’m **Naman Barkiya**
 - Love opportunities  
 - Currently working on **React** **Next** and **React Native**
-- currently working as a **freelancer**.
+- **freelancer**
 - Contact me via:
   1. ***email***: naman.barkiya02@gmail.com
   2. ***LinkedIn***: [Naman Barkiya](https://www.linkedin.com/in/naman-barkiya-015323200/)
