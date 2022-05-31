@@ -2,12 +2,13 @@
 - :snowman: Hi, I’m **Naman Barkiya**
 - :rocket: Self taught 
 - :computer: Full stack MERN developer
-- :briefcase: **Freelancer** 
+- :briefcase: Freelancer
 - :telephone_receiver: Contact me:
 <br></br>
 <code><a href="https://mail.google.com/mail/?view=cm&fs=1&to=naman.barkiya02@gmail.com" target="_blank"><img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></code>
 <code><a  href="https://www.linkedin.com/in/naman-barkiya-015323200/"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></code>
-  
+<br></br>
+
 ## :crossed_swords: Skills
 
 - ### Languages:
@@ -53,16 +54,17 @@
 - ### OS
 <code><img height="30" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></code>  
+<br></br>
 
 ## :chart_with_upwards_trend: Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naman9199&count_private=true&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![naman9199's GitHub stats](https://github-readme-stats.vercel.app/api?username=naman9199&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=naman9199)](https://github.com/naman9199)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical&hide_border=true&custom_title=Languages)](https://github.com/naman9199)
 
-[![Anurag's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naman9199&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![naman9199's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naman9199&theme=radical&hide_border=true)](https://github.com/naman9199)
 
-[![Anurag's GitHub stats](	https://activity-graph.herokuapp.com/graph?username=naman9199&theme=minimal&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![naman9199's GitHub stats](	https://activity-graph.herokuapp.com/graph?username=naman9199&theme=minimal&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/naman9199)
 
 <!---
 naman9199/naman9199 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
