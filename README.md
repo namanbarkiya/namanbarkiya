@@ -60,7 +60,7 @@
 
 [![naman9199's GitHub stats](https://github-readme-stats.vercel.app/api?username=naman9199&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=naman9199)](https://github.com/naman9199)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical&hide_border=true&custom_title=Languages)](https://github.com/naman9199)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naman9199&layout=compact&theme=radical&hide_border=true&custom_title=Languages)](https://github.com/naman9199)
 
 [![naman9199's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naman9199&theme=radical&hide_border=true)](https://github.com/naman9199)
 
