@@ -1,7 +1,7 @@
 #  :star2: Welcome
 - :snowman: Hi, I’m **Naman Barkiya**
 - :rocket: Self taught 
-- :computer: Full stack MERN developer
+- :computer: Full stack developer
 - :briefcase: Freelancer
 - :telephone_receiver: Contact me:
 <br></br>
