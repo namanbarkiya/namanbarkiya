@@ -1,18 +1,19 @@
-#  :star2: Welcome
-- :snowman: Hi, I’m **Naman Barkiya**
-- :rocket: Self taught 
-- :computer: Full stack developer
-- :briefcase: Freelancer
-- :telephone_receiver: Contact me:
-<br></br>
-<code><a href="https://mail.google.com/mail/?view=cm&fs=1&to=naman.barkiya02@gmail.com" target="_blank"><img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></code>
-<code><a  href="https://www.linkedin.com/in/naman-barkiya-015323200/"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></code>
-<br></br>
+# :star2: Welcome
+
+-   :snowman: Hi, I’m **Naman Barkiya**
+-   :rocket: Self taught
+-   :computer: Full stack developer
+-   :briefcase: Freelancer
+-   :telephone_receiver: Contact me:
+    <br></br>
+    <code><a href="https://mail.google.com/mail/?view=cm&fs=1&to=naman.barkiya02@gmail.com" target="_blank"><img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></code>
+    <code><a  href="https://www.linkedin.com/in/naman-barkiya-015323200/"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></code>
+    <br></br>
 
 ## :crossed_swords: Skills
 
-- ### Languages:
-  
+-   ### Languages:
+
 <code><img height="30" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
 <code><img height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
@@ -25,7 +26,7 @@
 <code><img height="30" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
 
-- ### Frameworks:
+-   ### Frameworks:
 
 <code><img height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
 <code><img height="30" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></code>
@@ -39,7 +40,7 @@
 <code><img height="30" src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></code>
 
-- ### Backend:
+-   ### Backend:
 
 <code><img height="30" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"></code>
@@ -51,23 +52,22 @@
 <code><img height="30" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></code>
 
-- ### OS
-<code><img height="30" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></code>
-<code><img height="30" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></code>  
-<br></br>
+-   ### OS
+    <code><img height="30" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></code>
+    <code><img height="30" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></code>  
+    <br></br>
 
 ## :chart_with_upwards_trend: Stats
 
-[![naman9199's GitHub stats](https://github-readme-stats.vercel.app/api?username=naman9199&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=naman9199)](https://github.com/naman9199)
+[![namanbarkiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=namanbarkiya&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=namanbarkiya)](https://github.com/namanbarkiya)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical&hide_border=true&custom_title=Languages)](https://github.com/naman9199)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namanbarkiya&layout=compact&theme=radical&hide_border=true&custom_title=Languages)](https://github.com/namanbarkiya)
 
-[![naman9199's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naman9199&theme=radical&hide_border=true)](https://github.com/naman9199)
+[![namanbarkiya's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=namanbarkiya&theme=radical&hide_border=true)](https://github.com/namanbarkiya)
 
-[![naman9199's GitHub stats](	https://activity-graph.herokuapp.com/graph?username=naman9199&theme=minimal&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/naman9199)
+[![namanbarkiya's GitHub stats](https://activity-graph.herokuapp.com/graph?username=namanbarkiya&theme=minimal&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/namanbarkiya)
 
 <!---
-naman9199/naman9199 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+namanbarkiya/namanbarkiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
