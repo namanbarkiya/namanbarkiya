@@ -3,7 +3,6 @@
 -   :snowman: Hi, I’m **Naman Barkiya**
 -   :rocket: Self taught
 -   :computer: Full stack developer
--   :briefcase: Freelancer
 -   :telephone_receiver: Contact me:
     <br></br>
     <code><a href="https://mail.google.com/mail/?view=cm&fs=1&to=naman.barkiya02@gmail.com" target="_blank"><img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></code>
