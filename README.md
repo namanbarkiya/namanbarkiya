@@ -1,10 +1,11 @@
+<a  href="https://namanbarkiya.xyz"><img height="25" src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=nginx&logoColor=black"></a>
+
 ## :sparkles: Welcome
 
-- :snowman: Hi, I’m **Naman** or you can call me **Palindrome!**
-- :link: Links:
+- :snowman: Hey there! I'm **Naman**, but feel free to call me **Palindrome!**
+- :link: Connect with me:
 
-<a  href="https://namanbarkiya.xyz"><img height="25" src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=nginx&logoColor=black"></a>
-<a  href="https://www.linkedin.com/in/naman-barkiya-015323250/"><img height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a  href="https://www.linkedin.com/in/naman-barkiya-015323200/"><img height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=naman.barkiya02@gmail.com" target="_blank"><img height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a  href="https://twitter.com/namanbarkiya"><img height="25" src="https://img.shields.io/badge/twitter (X)-000000?style=for-the-badge&logo=X&logoColor=white"></a>
 
@@ -47,7 +48,7 @@
 - #### Frontend:
 
 <div align="left">
-<img height="25" src="https://img.shields.io/badge/React-25232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img height="25" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img height="25" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 <img height="25" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind%20css&logoColor=white">
 <img height="25" src="https://img.shields.io/badge/React_Native-25232A?style=for-the-badge&logo=react&logoColor=61DAFB">
