@@ -1,18 +1,18 @@
 <a  href="https://nbarkiya.xyz"><img height="30" src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=nginx&logoColor=black"></a>
 
-## :sparkles: Welcome
+## ✨ Welcome
 
-- :snowman: Hey there! I'm **Naman**, but feel free to call me **Palindrome!**
-- :link: Connect with me:
+- ⛄ Hey there! I'm **Naman**, but feel free to call me **Palindrome!**
+- 🔗 Connect with me:
 
-<a  href="https://www.linkedin.com/in/namanbarkiya"><img height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/namanbarkiya"><img height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=naman.barkiya02@gmail.com" target="_blank"><img height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a  href="https://twitter.com/namanbarkiya"><img height="25" src="https://img.shields.io/badge/twitter (X)-000000?style=for-the-badge&logo=X&logoColor=white"></a>
+<a href="https://twitter.com/namanbarkiya"><img height="25" src="https://img.shields.io/badge/twitter (X)-000000?style=for-the-badge&logo=X&logoColor=white"></a>
 
 <!-- <br></br> -->
 <!-- icons from: https://simpleicons.org/ -->
 
-## :seedling: Contributions
+## 🌱 Contributions
 
 - Fixed gallery component for Microsoft's Autogen
 
@@ -26,7 +26,17 @@
 
 [![Creative Common](https://github-readme-stats.vercel.app/api/pin/?username=creativecommons&repo=creativecommons.github.io-source&theme=dark&show_owner=true)](https://github.com/creativecommons/creativecommons.github.io-source/pull/719)
 
-## :crossed_swords: Skills
+## 🌟 Notable Projects
+
+- Portfolio Website
+
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=namanbarkiya&repo=minimal-next-portfolio&theme=dark&show_owner=true)](https://github.com/namanbarkiya/minimal-next-portfolio)
+
+- SaaS Template
+
+[![SaaS Template](https://github-readme-stats.vercel.app/api/pin/?username=namanbarkiya&repo=niya-saas-template&theme=dark&show_owner=true)](https://github.com/namanbarkiya/niya-saas-template)
+
+## ⚔️ Skills
 
 - #### Languages:
 
@@ -77,7 +87,7 @@
 </div>
 <!-- <br></br> -->
 
-## :chart_with_upwards_trend: Stats
+## 📈 Stats
 
 <!--- [![namanbarkiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=namanbarkiya&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=namanbarkiya)](https://github.com/namanbarkiya) -->
 
