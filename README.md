@@ -95,6 +95,9 @@
 
 [![namanbarkiya's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=namanbarkiya&theme=radical&hide_border=true)](https://github.com/namanbarkiya)
 
+
+<a href="https://buymeachai.ezee.li/namanbarkiya" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/dvt5vkfwz/image/upload/v1767625332/buy_chai_naman.png" alt="Buy Me A Chai" width="200"></a>
+
 <!-- [![namanbarkiya's GitHub stats](https://activity-graph.herokuapp.com/graph?username=namanbarkiya&theme=minimal&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/namanbarkiya) -->
 
 <!---
