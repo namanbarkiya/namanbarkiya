@@ -16,25 +16,25 @@
 
 - Fixed gallery component for Microsoft's Autogen
 
-[![Microsoft Autogen](https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=autogen&theme=dark&show_owner=true)](https://github.com/microsoft/autogen/pull/1445)
+[![Microsoft Autogen](https://naman-github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=autogen&theme=dark&show_owner=true)](https://github.com/microsoft/autogen/pull/1445)
 
 - Navbar issue fix for Creative Commons
 
-[![Creative Common](https://github-readme-stats.vercel.app/api/pin/?username=creativecommons&repo=creativecommons.github.io-source&theme=dark&show_owner=true)](https://github.com/creativecommons/creativecommons.github.io-source/pull/738)
+[![Creative Common](https://naman-github-readme-stats.vercel.app/api/pin/?username=creativecommons&repo=creativecommons.github.io-source&theme=dark&show_owner=true)](https://github.com/creativecommons/creativecommons.github.io-source/pull/738)
 
 - Created a section for Creative Commons
 
-[![Creative Common](https://github-readme-stats.vercel.app/api/pin/?username=creativecommons&repo=creativecommons.github.io-source&theme=dark&show_owner=true)](https://github.com/creativecommons/creativecommons.github.io-source/pull/719)
+[![Creative Common](https://naman-github-readme-stats.vercel.app/api/pin/?username=creativecommons&repo=creativecommons.github.io-source&theme=dark&show_owner=true)](https://github.com/creativecommons/creativecommons.github.io-source/pull/719)
 
 ## 🌟 Notable Projects
 
 - Portfolio Website
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=namanbarkiya&repo=minimal-next-portfolio&theme=dark&show_owner=true)](https://github.com/namanbarkiya/minimal-next-portfolio)
+[![Portfolio](https://naman-github-readme-stats.vercel.app/api/pin/?username=namanbarkiya&repo=minimal-next-portfolio&theme=dark&show_owner=true)](https://github.com/namanbarkiya/minimal-next-portfolio)
 
 - SaaS Template
 
-[![SaaS Template](https://github-readme-stats.vercel.app/api/pin/?username=namanbarkiya&repo=niya-saas-template&theme=dark&show_owner=true)](https://github.com/namanbarkiya/niya-saas-template)
+[![SaaS Template](https://naman-github-readme-stats.vercel.app/api/pin/?username=namanbarkiya&repo=niya-saas-template&theme=dark&show_owner=true)](https://github.com/namanbarkiya/niya-saas-template)
 
 ## ⚔️ Skills
 
@@ -87,15 +87,15 @@
 </div>
 <!-- <br></br> -->
 
-## 📈 Stats
+<!--- ## 📈 Stats -->
 
-<!--- [![namanbarkiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=namanbarkiya&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=namanbarkiya)](https://github.com/namanbarkiya) -->
+<!--- [![namanbarkiya's GitHub stats](https://naman-github-readme-stats.vercel.app/api?username=namanbarkiya&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=namanbarkiya)](https://github.com/namanbarkiya) -->
 
-<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namanbarkiya&layout=compact&theme=radical&hide_border=true&custom_title=Languages)](https://github.com/namanbarkiya) -->
+<!--- [![Top Langs](https://naman-github-readme-stats.vercel.app/api/top-langs/?username=namanbarkiya&layout=compact&theme=radical&hide_border=true&custom_title=Languages)](https://github.com/namanbarkiya) -->
 
-[![namanbarkiya's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=namanbarkiya&theme=radical&hide_border=true)](https://github.com/namanbarkiya)
+<!--- [![namanbarkiya's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=namanbarkiya&theme=radical&hide_border=true)](https://github.com/namanbarkiya) -->
 
-
+<br/>
 <a href="https://buymeachai.ezee.li/namanbarkiya" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/dvt5vkfwz/image/upload/v1767625332/buy_chai_naman.png" alt="Buy Me A Chai" width="200"></a>
 
 <!-- [![namanbarkiya's GitHub stats](https://activity-graph.herokuapp.com/graph?username=namanbarkiya&theme=minimal&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/namanbarkiya) -->
