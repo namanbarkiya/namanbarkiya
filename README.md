@@ -1,104 +1,319 @@
-<a  href="https://nbarkiya.xyz"><img height="30" src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=nginx&logoColor=black"></a>
+<div align="center">
 
-## ✨ Welcome
-
-- ⛄ Hey there! I'm **Naman**, but feel free to call me **Palindrome!**
-- 🔗 Connect with me:
-
-<a href="https://www.linkedin.com/in/namanbarkiya"><img height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=naman.barkiya02@gmail.com" target="_blank"><img height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://twitter.com/namanbarkiya"><img height="25" src="https://img.shields.io/badge/twitter (X)-000000?style=for-the-badge&logo=X&logoColor=white"></a>
-
-<!-- <br></br> -->
-<!-- icons from: https://simpleicons.org/ -->
-
-## 🌱 Contributions
-
-- Fixed gallery component for Microsoft's Autogen
-
-[![Microsoft Autogen](https://naman-github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=autogen&theme=dark&show_owner=true)](https://github.com/microsoft/autogen/pull/1445)
-
-- Navbar issue fix for Creative Commons
-
-[![Creative Common](https://naman-github-readme-stats.vercel.app/api/pin/?username=creativecommons&repo=creativecommons.github.io-source&theme=dark&show_owner=true)](https://github.com/creativecommons/creativecommons.github.io-source/pull/738)
-
-- Created a section for Creative Commons
-
-[![Creative Common](https://naman-github-readme-stats.vercel.app/api/pin/?username=creativecommons&repo=creativecommons.github.io-source&theme=dark&show_owner=true)](https://github.com/creativecommons/creativecommons.github.io-source/pull/719)
-
-## 🌟 Notable Projects
-
-- Portfolio Website
-
-[![Portfolio](https://naman-github-readme-stats.vercel.app/api/pin/?username=namanbarkiya&repo=minimal-next-portfolio&theme=dark&show_owner=true)](https://github.com/namanbarkiya/minimal-next-portfolio)
-
-- SaaS Template
-
-[![SaaS Template](https://naman-github-readme-stats.vercel.app/api/pin/?username=namanbarkiya&repo=niya-saas-template&theme=dark&show_owner=true)](https://github.com/namanbarkiya/niya-saas-template)
-
-## ⚔️ Skills
-
-- #### Languages:
-
-<div align="left">
-<img height="25" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/JavaScript-323325?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img height="25" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-<img height="25" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<!-- <img height="25" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> -->
-<!-- <img height="25" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"> -->
-<!-- <br></br> -->
-<!-- <img height="25" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> -->
-<!-- <img height="25" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"> -->
-<img height="25" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-</div>
-<!-- <br></br> -->
-
-- #### Frontend:
-
-<div align="left">
-<img height="25" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img height="25" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind%20css&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/React_Native-25232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img height="25" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-<!-- <br></br> -->
-<img height="25" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-</div>
-<!-- <br></br> -->
-
-- #### Backend:
-<div align="left">
-<img height="25" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-<!-- <br></br> -->
-<img height="25" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
-<img height="25" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-</div>
-<!-- <br></br> -->
-
-<!--- ## 📈 Stats -->
-
-<!--- [![namanbarkiya's GitHub stats](https://naman-github-readme-stats.vercel.app/api?username=namanbarkiya&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=namanbarkiya)](https://github.com/namanbarkiya) -->
-
-<!--- [![Top Langs](https://naman-github-readme-stats.vercel.app/api/top-langs/?username=namanbarkiya&layout=compact&theme=radical&hide_border=true&custom_title=Languages)](https://github.com/namanbarkiya) -->
-
-<!--- [![namanbarkiya's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=namanbarkiya&theme=radical&hide_border=true)](https://github.com/namanbarkiya) -->
+<!-- BANNER -->
+<img src="./assets/banner.svg" alt="Naman Barkiya — Applied AI Engineer" width="100%" />
 
 <br/>
-<a href="https://buymeachai.ezee.li/namanbarkiya" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/dvt5vkfwz/image/upload/v1767625332/buy_chai_naman.png" alt="Buy Me A Chai" width="200"></a>
 
-<!-- [![namanbarkiya's GitHub stats](https://activity-graph.herokuapp.com/graph?username=namanbarkiya&theme=minimal&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/namanbarkiya) -->
+<!-- SOCIAL BADGES — brutalist flat style -->
+<a href="https://nbarkiya.xyz">
+  <img src="https://img.shields.io/badge/PORTFOLIO-F5F5F5?style=flat-square&logo=About.me&logoColor=0A0A0A" alt="Portfolio"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/namanbarkiya">
+  <img src="https://img.shields.io/badge/LINKEDIN-F5F5F5?style=flat-square&logo=linkedin&logoColor=0A0A0A" alt="LinkedIn"/>
+</a>&nbsp;&nbsp;
+<a href="https://twitter.com/namanbarkiya">
+  <img src="https://img.shields.io/badge/TWITTER-F5F5F5?style=flat-square&logo=x&logoColor=0A0A0A" alt="Twitter"/>
+</a>&nbsp;&nbsp;
+<a href="mailto:naman.barkiya02@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-F5F5F5?style=flat-square&logo=gmail&logoColor=0A0A0A" alt="Email"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.singlebit.xyz">
+  <img src="https://img.shields.io/badge/SINGLEBIT-E8734A?style=flat-square&logoColor=white" alt="SingleBit"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- DIVIDER -->
+<img src="./assets/divider.svg" width="100%" />
+
+## About
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│   Name        Naman Barkiya                                         │
+│   Title       Applied AI Engineer & Consultant                      │
+│   Company     SingleBit (singlebit.xyz)                             │
+│   Location    India                                                 │
+│   Focus       Applied AI · Full-Stack · Product Building            │
+│                                                                     │
+│   Philosophy  "Ship fast. Ship often. Make AI do the boring stuff." │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%" />
+
+## Experience
+
+<table>
+  <thead>
+    <tr>
+      <th width="160">Role</th>
+      <th width="160">Company</th>
+      <th>What I Did</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>AI Developer & Consultant</strong></td>
+      <td><code>Independent</code></td>
+      <td>Building AI-powered products and advising startups on applied AI strategy. Helping teams ship MVPs with LLMs, RAG, and agent architectures.</td>
+    </tr>
+    <tr>
+      <td><strong>Software Dev Engineer</strong></td>
+      <td><a href="https://www.ubs.com/in/en.html"><code>UBS</code></a></td>
+      <td>Shipped production features within the first month for a trader-facing P&L dashboard used by global stakeholders. Financial data systems at scale.</td>
+    </tr>
+    <tr>
+    <tr>
+      <td><strong>Founding Engineer</strong></td>
+      <td><a href="https://muzecmo.com"><code>Muze AI</code></a></td>
+      <td>Improved LLM function-calling accuracy through structured prompt design. Built an AI platform that creates, manages, and optimizes ads on Meta & Google.</td>
+    </tr>
+      <td><strong>Web Developer</strong></td>
+      <td><a href="https://www.builtdesign.in/"><code>Builtdesign</code></a></td>
+      <td>Developed client websites using React, Angular, and GraphQL. Full-stack development across multiple projects.</td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%" />
+
+## What I Build
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧠 Applied AI</h4>
+      <p>
+        <img src="https://img.shields.io/badge/LLM_Integration-E8734A?style=flat-square" />&nbsp;
+        <img src="https://img.shields.io/badge/Prompt_Engineering-E8734A?style=flat-square" />&nbsp;
+        <img src="https://img.shields.io/badge/RAG_Pipelines-E8734A?style=flat-square" />&nbsp;
+        <img src="https://img.shields.io/badge/Agent_Architectures-E8734A?style=flat-square" />&nbsp;
+        <img src="https://img.shields.io/badge/Function_Calling-E8734A?style=flat-square" />&nbsp;
+        <img src="https://img.shields.io/badge/AI_Ad_Optimization-E8734A?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🚀 Product Engineering</h4>
+      <p>
+        <img src="https://img.shields.io/badge/SaaS_Products-2A2A2A?style=flat-square&labelColor=2A2A2A" />&nbsp;
+        <img src="https://img.shields.io/badge/Scalable_APIs-2A2A2A?style=flat-square&labelColor=2A2A2A" />&nbsp;
+        <img src="https://img.shields.io/badge/Real--time_Systems-2A2A2A?style=flat-square&labelColor=2A2A2A" />&nbsp;
+        <img src="https://img.shields.io/badge/Open_Source_Templates-2A2A2A?style=flat-square&labelColor=2A2A2A" />&nbsp;
+        <img src="https://img.shields.io/badge/Production_Deploys-2A2A2A?style=flat-square&labelColor=2A2A2A" />&nbsp;
+        <img src="https://img.shields.io/badge/MVP_Prototyping-2A2A2A?style=flat-square&labelColor=2A2A2A" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%" />
+
+## Tech Stack
+
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th>Category</th>
+      <th>Technologies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>AI & Data</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-E8734A?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangChain-E8734A?style=flat-square&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenAI-E8734A?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-E8734A?style=flat-square&logo=fastapi&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Frontend</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/TypeScript-2A2A2A?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-2A2A2A?style=flat-square&logo=react&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-2A2A2A?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Angular-2A2A2A?style=flat-square&logo=angular&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-2A2A2A?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redux-2A2A2A?style=flat-square&logo=redux&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Backend</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Node.js-2A2A2A?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/NestJS-2A2A2A?style=flat-square&logo=nestjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-2A2A2A?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/GraphQL-2A2A2A?style=flat-square&logo=graphql&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Databases</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/PostgreSQL-2A2A2A?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-2A2A2A?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-2A2A2A?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-2A2A2A?style=flat-square&logo=firebase&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-2A2A2A?style=flat-square&logo=mysql&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>DevOps</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Docker-2A2A2A?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS-2A2A2A?style=flat-square&logo=amazonaws&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vercel-2A2A2A?style=flat-square&logo=vercel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Git-2A2A2A?style=flat-square&logo=git&logoColor=white" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%" />
+
+## Projects
+
+<table>
+  <thead>
+    <tr>
+      <th width="280">Project</th>
+      <th>Description</th>
+      <th width="80">Stars</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong><a href="https://github.com/namanbarkiya/minimal-next-portfolio">minimal-next-portfolio</a></strong></td>
+      <td>Open-source Next.js portfolio template — trusted & forked by devs worldwide</td>
+      <td>⭐ 150+</td>
+    </tr>
+    <tr>
+      <td><strong><a href="https://github.com/namanbarkiya/niya-saas-template">niya-saas-template</a></strong></td>
+      <td>Production-ready SaaS starter for Next.js — auth, Supabase, beautiful UI</td>
+      <td>⭐ 35+</td>
+    </tr>
+    <tr>
+      <td><strong><a href="https://github.com/namanbarkiya/niya-fastapi-template">niya-fastapi-template</a></strong></td>
+      <td>FastAPI template with Supabase auth, rate limiting & docs — ship backends fast</td>
+      <td>⭐ 5+</td>
+    </tr>
+    <tr>
+      <td><strong><a href="https://nbarkiya.xyz/projects/convot">Convot</a></strong></td>
+      <td>AI chatbot platform — crawls, indexes, and embeds knowledge for source-grounded answers via a one-line widget</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td><strong><a href="https://github.com/namanbarkiya/riskread-ai">riskread-ai</a></strong></td>
+      <td>AI-powered risk analysis tool</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td><strong><a href="https://github.com/namanbarkiya/MCP-todo-client-server">MCP-todo-client-server</a></strong></td>
+      <td>Model Context Protocol — client + server implementation</td>
+      <td>—</td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%" />
+
+## Open Source
+
+<table>
+  <thead>
+    <tr>
+      <th>Organization</th>
+      <th>Contribution</th>
+      <th>Impact</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Microsoft</strong> · Autogen</td>
+      <td><a href="https://github.com/microsoft/autogen/pull/1445">Fixed gallery component</a></td>
+      <td>Improved community showcase</td>
+    </tr>
+    <tr>
+      <td><strong>Creative Commons</strong></td>
+      <td><a href="https://github.com/creativecommons/creativecommons.github.io-source/pull/738">Navbar issue fix</a></td>
+      <td>UX improvement</td>
+    </tr>
+    <tr>
+      <td><strong>Creative Commons</strong></td>
+      <td><a href="https://github.com/creativecommons/creativecommons.github.io-source/pull/719">Created new section</a></td>
+      <td>Content expansion</td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%" />
+
+## Stats
+
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=namanbarkiya&theme=github_dark" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=namanbarkiya&theme=github-dark-blue&hide_border=true&background=0D0D0D&ring=E8734A&fire=E8734A&currStreakLabel=E8734A&sideLabels=888888&sideNums=F5F5F5&currStreakNum=F5F5F5&dates=555555" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=namanbarkiya&theme=github_dark" alt="Top Languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=namanbarkiya&theme=github_dark&utcOffset=5.5" alt="Commit Activity" />
+</div>
+
+<br/>
+
+<!-- SNAKE -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/namanbarkiya/namanbarkiya/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/namanbarkiya/namanbarkiya/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/namanbarkiya/namanbarkiya/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%" />
+
+<div align="center">
+
+  <a href="https://nbarkiya.xyz/contact">
+    <img src="https://img.shields.io/badge/OPEN_FOR-AI_CONSULTANCY-E8734A?style=flat-square&labelColor=0D0D0D" alt="Open for work" />
+  </a>
+
+<br/><br/>
+
+  <a href="https://buymeachai.ezee.li/namanbarkiya" target="_blank" rel="noopener noreferrer">
+    <img src="https://res.cloudinary.com/dvt5vkfwz/image/upload/v1767625332/buy_chai_naman.png" alt="Buy Me A Chai" width="160"/>
+  </a>
+
+<br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=namanbarkiya&style=flat-square&color=E8734A&labelColor=0D0D0D&label=VIEWS" alt="Profile views" />
+
+</div>
 
 <!---
 namanbarkiya/namanbarkiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
