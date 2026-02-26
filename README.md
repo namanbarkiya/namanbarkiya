@@ -71,11 +71,11 @@
       <td>Shipped production features within the first month for a trader-facing P&L dashboard used by global stakeholders. Financial data systems at scale.</td>
     </tr>
     <tr>
-    <tr>
       <td><strong>Founding Engineer</strong></td>
       <td><a href="https://muzecmo.com"><code>Muze AI</code></a></td>
       <td>Improved LLM function-calling accuracy through structured prompt design. Built an AI platform that creates, manages, and optimizes ads on Meta & Google.</td>
     </tr>
+    <tr>
       <td><strong>Web Developer</strong></td>
       <td><a href="https://www.builtdesign.in/"><code>Builtdesign</code></a></td>
       <td>Developed client websites using React, Angular, and GraphQL. Full-stack development across multiple projects.</td>
@@ -268,6 +268,17 @@
 
 <br/>
 
+<!-- SNAKE -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/namanbarkiya/namanbarkiya/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/namanbarkiya/namanbarkiya/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/namanbarkiya/namanbarkiya/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+<br/>
+
 <img src="./assets/divider.svg" width="100%" />
 
 ## Stats
@@ -280,17 +291,6 @@
 <div align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=namanbarkiya&theme=github_dark" alt="Top Languages" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=namanbarkiya&theme=github_dark&utcOffset=5.5" alt="Commit Activity" />
-</div>
-
-<br/>
-
-<!-- SNAKE -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/namanbarkiya/namanbarkiya/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/namanbarkiya/namanbarkiya/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/namanbarkiya/namanbarkiya/output/github-snake-dark.svg" />
-  </picture>
 </div>
 
 <br/>
