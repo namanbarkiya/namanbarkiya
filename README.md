@@ -305,12 +305,6 @@
 
 <br/><br/>
 
-  <a href="https://buymeachai.ezee.li/namanbarkiya" target="_blank" rel="noopener noreferrer">
-    <img src="https://res.cloudinary.com/dvt5vkfwz/image/upload/v1767625332/buy_chai_naman.png" alt="Buy Me A Chai" width="160"/>
-  </a>
-
-<br/><br/>
-
   <img src="https://komarev.com/ghpvc/?username=namanbarkiya&style=flat-square&color=E8734A&labelColor=0D0D0D&label=VIEWS" alt="Profile views" />
 
 </div>
